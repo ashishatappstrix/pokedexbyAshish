@@ -1,0 +1,6 @@
+framework module Pods_pokedex_by_ashish {
+  umbrella header "Pods-pokedex-by-ashish-umbrella.h"
+
+  export *
+  module * { export * }
+}
